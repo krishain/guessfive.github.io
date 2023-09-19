@@ -1,4 +1,3 @@
-# krishain.github.io
 
 **GuessFive Gaming App**
 
